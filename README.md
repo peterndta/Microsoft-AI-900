@@ -12,7 +12,7 @@ on Azure
 - Describe Features of Conversational AI Workloads
 on Azure
 
-Hope the Note will help you in the preparation process. My passing score is **946** and you only need 700 to pass. Below is my Performance by exam section.
+Hope the Note will help you in the preparation process. My passing score is **946**. Below is my Performance by exam section.
 
 <img src="https://firebasestorage.googleapis.com/v0/b/react-native-course-41a03.appspot.com/o/Section.jpg?alt=media&token=3da717f2-a87e-4cc4-b043-983fa32ba167"/>
 
